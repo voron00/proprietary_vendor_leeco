@@ -886,6 +886,7 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     libthermalclient \
     QtiTelephonyService \
+    UEIQuicksetSDKLeTV \
     uceShimService \
     CNEService \
     WfdService \
