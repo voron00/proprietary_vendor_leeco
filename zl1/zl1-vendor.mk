@@ -1,5 +1,5 @@
 # Copyright (C) 2016 The CyanogenMod Project
-# Copyright (C) 2017-2020 The LineageOS Project
+# Copyright (C) 2017-2021 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -54,7 +54,6 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/zl1/proprietary/vendor/firmware/cppf.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/cppf.mdt \
     vendor/leeco/zl1/proprietary/vendor/firmware/cyccg.cybin:$(TARGET_COPY_OUT_VENDOR)/firmware/cyccg.cybin \
     vendor/leeco/zl1/proprietary/vendor/firmware/cyccg_table.cybin:$(TARGET_COPY_OUT_VENDOR)/firmware/cyccg_table.cybin \
-    vendor/leeco/zl1/proprietary/vendor/firmware/sii6400_wihd_mhl.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/sii6400_wihd_mhl.fw \
     vendor/leeco/zl1/proprietary/etc/init/dpmd.rc:system/etc/init/dpmd.rc \
     vendor/leeco/zl1/proprietary/etc/init/wfdservice.rc:system/etc/init/wfdservice.rc \
     vendor/leeco/zl1/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
